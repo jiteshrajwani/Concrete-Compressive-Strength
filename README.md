@@ -1,1 +1,2 @@
 This project involves utilizing linear regression to forecast the compressive strength of concrete. Through analysis of a dataset containing concrete mix compositions and their associated compressive strength tests, a predictive model is developed. The aim is to optimize concrete formulations, bolster structural integrity, and minimize material wastage in construction endeavors.
+I have also deployed this project. It's my first project where I have tried deploting for the first time.
